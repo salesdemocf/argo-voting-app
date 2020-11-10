@@ -1,6 +1,6 @@
 version: '1.0'
 steps:
-  main_clone:
+  Clone:
     title: Cloning main repository...
     type: git-clone
     repo: '${{CF_REPO_OWNER}}/${{CF_REPO_NAME}}'
@@ -10,7 +10,7 @@ steps:
     title: Building Docker Image
     type: build
     image_name: ${{CF_REPO_NAME}}/${{MICROSERVICE}}
-    working_directory: ${{MICROSERVICE}}
+    working_directory: ${{CLONE}}/${{MICROSERVICE}}
     tag: '${{CF_BRANCH_TAG_NORMALIZED}}-${{CF_SHORT_REVISION}}'
     dockerfile: Dockerfile
   PushDockerImage:
