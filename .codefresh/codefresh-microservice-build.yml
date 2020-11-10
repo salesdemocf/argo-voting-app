@@ -14,19 +14,19 @@ steps:
     tag: '${{CF_BRANCH_TAG_NORMALIZED}}-${{CF_SHORT_REVISION}}'
     dockerfile: Dockerfile
   PushDockerImage:
-    title: Pushing Result Image to GCR
+    title: Pushing Result Image to ECR
     type: push
     candidate: ${{BuildingDockerImage}}
     registry: gcr
     tag: '${{CF_BRANCH_TAG_NORMALIZED}}-${{CF_SHORT_REVISION}}'
-  PrismaCloudImageScan:
-    type: prisma-cloud
-    arguments:
-      IMAGE_NAME: codefresh-sa/${{CF_REPO_NAME}}/${{MICROSERVICE}}
-      IMAGE_TAG: ${{CF_BRANCH_TAG_NORMALIZED}}-${{CF_SHORT_REVISION}}
-      PC_HOSTNAME: ${{PC_HOSTNAME}}
-      PC_PORT: ${{PC_PORT}}
-      PC_USERNAME: ${{PC_USERNAME}}
-      PC_PASSWORD: ${{PC_PASSWORD}}
-      PC_PROTOCOL: ${{PC_PROTOCOL}}
-      REGISTRY: gcr.io
+  # PrismaCloudImageScan:
+  #   type: prisma-cloud
+  #   arguments:
+  #     IMAGE_NAME: codefresh-sa/${{CF_REPO_NAME}}/${{MICROSERVICE}}
+  #     IMAGE_TAG: ${{CF_BRANCH_TAG_NORMALIZED}}-${{CF_SHORT_REVISION}}
+  #     PC_HOSTNAME: ${{PC_HOSTNAME}}
+  #     PC_PORT: ${{PC_PORT}}
+  #     PC_USERNAME: ${{PC_USERNAME}}
+  #     PC_PASSWORD: ${{PC_PASSWORD}}
+  #     PC_PROTOCOL: ${{PC_PROTOCOL}}
+  #     REGISTRY: gcr.io
