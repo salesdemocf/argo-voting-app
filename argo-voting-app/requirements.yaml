@@ -6,7 +6,7 @@ dependencies:
   tags:
   - db
 - name: redis
-  version: 12.0.0
+  version: 11.3.4
   repository: https://charts.bitnami.com/bitnami
   condition: redis.enabled
   tags:
