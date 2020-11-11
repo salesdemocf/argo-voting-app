@@ -2,13 +2,13 @@ apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
   name: argo-voting-app
-  namespace: development
+  namespace: argo
 spec:
   project: argo-voting-app
   source:
-    repoURL: https://kubernetes-charts.storage.googleapis.com
-    chart: argo-voting-app
-    targetRevision: 0.0.1
+    repoURL: https://github.com/salesdemocf/argo-voting-app.git
+    path: argo-voting-app
+    targetRevision: main
     helm:
       values: |
         image:
