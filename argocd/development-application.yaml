@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/salesdemocf/argo-voting-app.git
     path: argo-voting-app
-    targetRevision: main
+    targetRevision: argo-wip
     helm:
       values: |
         image:
