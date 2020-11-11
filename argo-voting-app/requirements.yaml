@@ -1,13 +1,13 @@
 dependencies:
 - name: postgresql
-  version: 0.9.5
-  repository: https://kubernetes-charts.storage.googleapis.com/ 
+  version: 9.8.11
+  repository: https://charts.bitnami.com/bitnami
   condition: postgresql.enabled
   tags:
   - db
 - name: redis
-  version: 1.2.2
-  repository: https://kubernetes-charts.storage.googleapis.com/
+  version: 12.0.0
+  repository: https://charts.bitnami.com/bitnami
   condition: redis.enabled
   tags:
   - queue
