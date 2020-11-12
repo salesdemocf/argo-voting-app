@@ -8,7 +8,7 @@ postgresql:
   enabled: true
   # Uncomment line below and set to postgres host fqdn is using postgres outside release
   # postgresServer: postgres_host_fqdn
-  postgresUser: postgres
+  postgresUser: voting-app
   postgresqlPostgresPassword: postgres
 
 # Enabling redis service, by default
