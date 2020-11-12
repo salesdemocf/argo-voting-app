@@ -8,7 +8,7 @@ image:
 
 postgresql:
   postgresUser: voting-app
-  postgresqlPostgres: postgres
+  postgresqlPassword: postgres
 
 redis:
   usePassword: false
