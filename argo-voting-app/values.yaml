@@ -10,6 +10,7 @@ postgresql:
   # postgresServer: postgres_host_fqdn
   postgresUser: voting-app
   postgresqlPassword: postgres
+  postgresqlPostgresPassword: postgres
 
 # Enabling redis service, by default
 redis:
