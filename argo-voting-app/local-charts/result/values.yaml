@@ -8,6 +8,6 @@ image:
 
 postgresql:
   postgresUser: voting-app
-  postgresqlPostgresPassword: postgres
+  postgresqlPassword: postgres
 
 replicaCount: 1

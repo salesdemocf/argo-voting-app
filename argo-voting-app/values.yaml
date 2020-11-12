@@ -9,7 +9,7 @@ postgresql:
   # Uncomment line below and set to postgres host fqdn is using postgres outside release
   # postgresServer: postgres_host_fqdn
   postgresUser: voting-app
-  postgresqlPostgresPassword: postgres
+  postgresqlPassword: postgres
 
 # Enabling redis service, by default
 redis:
