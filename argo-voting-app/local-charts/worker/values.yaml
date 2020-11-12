@@ -7,7 +7,7 @@ image:
   tag: latest
 
 postgresql:
-  postgresUser: voting-app
+  postgresUser: postgres
   postgresqlPassword: postgres
 
 redis:
