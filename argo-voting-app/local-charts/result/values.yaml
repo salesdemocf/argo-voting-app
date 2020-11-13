@@ -8,7 +8,7 @@ image:
 
 postgresql:
   postgresUsername: postgres
-  postgresql:
+  postgres:
     password: postgres
 
 replicaCount: 1
