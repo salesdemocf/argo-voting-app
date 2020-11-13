@@ -7,8 +7,8 @@ image:
   tag: latest
 
 postgresql:
-  postgresUsername: voting-app
-  postgresqlPostgresPassword: postgres
+  postgresUsername: postgres
+  postgresqlPassword: postgres
 
 redis:
   usePassword: false

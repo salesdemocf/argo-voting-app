@@ -35,4 +35,4 @@ spec:
           - name: POSTGRES_USERNAME
             value: {{ default "postgres" .Values.postgresql.postgresUsername | quote }}
           - name: POSTGRES_PASSWORD
-            value: {{ default "postgres" .Values.postgresql.postgresqlPostgresPassword | quote }}
+            value: {{ default "postgres" .Values.postgresql.postgresqlPassword | quote }}
