@@ -8,8 +8,7 @@ image:
 
 postgresql:
   postgresUsername: postgres
-  postgres:
-    password: postgres
+  postgresqlPostgresPassword: postgres
 
 redis:
   usePassword: false
