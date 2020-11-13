@@ -37,4 +37,4 @@ spec:
                 name: "postgresql-{{ .Release.Name }}"
                 key: password
           - name: REDIS_HOST
-            value: {{ .Values.redis.host | default (printf "%s-redis" ( .Release.Name )) | quote }}
+            value: {{ .Values.redis.host | default (printf "%s-redis-master" ( .Release.Name )) | quote }}
