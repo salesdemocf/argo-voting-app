@@ -9,7 +9,8 @@ postgresql:
   # Uncomment line below and set to postgres host fqdn is using postgres outside release
   # postgresServer: postgres_host_fqdn
   postgresUsername: postgres
-  postgresqlPassword: postgres
+  postgres:
+    password: postgres
 
 # Enabling redis service, by default
 redis:
