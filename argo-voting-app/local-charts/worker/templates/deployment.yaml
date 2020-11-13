@@ -30,7 +30,7 @@ spec:
           - name: POSTGRES_SERVER
             value: {{ .Values.postgresql.server | default (printf "%s-postgresql" ( .Release.Name )) | quote }}
           - name: POSTGRES_USERNAME
-            value: {{ .Values.postgresql.username | default "postgres" | quote }}
+            value: {{ .Values.postgresql.postgresUsername | default "postgres" | quote }}
           - name: POSTGRES_PASSWORD
             valueFrom:
               secretKeyRef:
