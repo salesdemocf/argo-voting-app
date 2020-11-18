@@ -10,7 +10,7 @@ result:
     tag: latest
 vote:
   image:
-    tag: argo-wip-81221eb
+    tag: argo-wip-c27845e
 worker:
   image:
     tag: latest
