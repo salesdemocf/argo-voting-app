@@ -1,0 +1,16 @@
+postgresql:
+  enabled: true
+  postgresUsername: postgres
+  postgresqlPassword: postgres
+redis:
+  enabled: true
+  usePassword: false
+result:
+  image:
+    tag: latest
+vote:
+  image:
+    tag: argo-wip-f64016b
+worker:
+  image:
+    tag: latest

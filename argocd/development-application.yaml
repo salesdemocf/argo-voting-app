@@ -1,0 +1,31 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: argo-voting-app
+  namespace: argo
+spec:
+  project: argo-voting-app
+  source:
+    repoURL: https://github.com/salesdemocf/argo-voting-app.git
+    path: argo-voting-app
+    targetRevision: argo-wip
+    helm:
+      values: |
+        image:
+          result:
+            repository: 336151728602.dkr.ecr.us-west-2.amazonaws.com/argo-voting-app/result
+            tag: 0.0.1
+          vote:
+            repository: 336151728602.dkr.ecr.us-west-2.amazonaws.com/argo-voting-app/vote
+            tag: 0.0.1
+          worker:
+            repository: 336151728602.dkr.ecr.us-west-2.amazonaws.com/argo-voting-app/worker
+            tag: 0.0.1
+        metrics:
+          enabled: false
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: development
+  syncPolicy:
+    automated:
+      selfHeal: false
