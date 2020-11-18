@@ -10,7 +10,7 @@ result:
     tag: latest
 vote:
   image:
-    tag: argo-wip-7b88be7
+    tag: argo-wip-1cac9e0
 worker:
   image:
     tag: latest
