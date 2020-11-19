@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: add-env-files-7d66530
+    tag: main-b9e9580
 vote:
   image:
-    tag: argo-wip-f64016b
+    tag: add-env-files-7d66530
 worker:
   image:
     tag: latest
