@@ -1,17 +1,17 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: development-argo-voting-app
+  name: staging-argo-voting-app
   namespace: argo
 spec:
   project: argo-voting-app
   source:
     repoURL: https://github.com/salesdemocf/argo-voting-app.git
     path: argo-voting-app
-    targetRevision: main
+    targetRevision: argo-wip
   destination:
     server: https://kubernetes.default.svc
-    namespace: development
+    namespace: staging
   syncPolicy:
     automated:
       selfHeal: false
