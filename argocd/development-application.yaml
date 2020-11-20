@@ -12,6 +12,3 @@ spec:
   destination:
     server: https://kubernetes.default.svc
     namespace: development
-  syncPolicy:
-    automated:
-      selfHeal: false
