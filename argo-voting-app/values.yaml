@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: new-updates-ad62fb5
+    tag: SA-147-update-vote-b-4abf08a
 vote:
   image:
-    tag: SA-147-update-vote-b-4abf08a
+    tag: SA-147-update-vote-b-33b8a0c
 worker:
   image:
     tag: latest
