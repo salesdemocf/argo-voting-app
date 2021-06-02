@@ -10,7 +10,7 @@ result:
     tag: updating-cb26ce0
 vote:
   image:
-    tag: updating-932002f
+    tag: updating-cb26ce0
 worker:
   image:
     tag: latest
