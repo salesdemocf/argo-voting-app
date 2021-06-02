@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: new-updates-ad62fb5
+    tag: updating-7bd7a1b
 vote:
   image:
-    tag: updating-7bd7a1b
+    tag: add-env-files-7d66530
 worker:
   image:
     tag: latest
