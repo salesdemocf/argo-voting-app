@@ -13,4 +13,4 @@ vote:
     tag: updating-cb26ce0
 worker:
   image:
-    tag: latest
+    tag: updating-cb26ce0
