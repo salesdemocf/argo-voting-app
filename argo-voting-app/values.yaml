@@ -10,7 +10,7 @@ result:
     tag: updating-7bd7a1b
 vote:
   image:
-    tag: add-env-files-7d66530
+    tag: updating-932002f
 worker:
   image:
     tag: latest
