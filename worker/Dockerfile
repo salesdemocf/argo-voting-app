@@ -1,5 +1,6 @@
 FROM microsoft/dotnet:2.0.0-sdk
 
+# Update for new repository
 WORKDIR /code
 
 ADD src/Worker /code/src/Worker
