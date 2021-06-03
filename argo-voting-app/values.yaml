@@ -10,7 +10,7 @@ result:
     tag: SA-160-vote-update-2f3c58b
 vote:
   image:
-    tag: SA-160-vote-update-88bbda8
+    tag: SA-160-vote-update-2f3c58b
 worker:
   image:
     tag: updating-cb26ce0
