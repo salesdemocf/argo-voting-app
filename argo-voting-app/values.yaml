@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: updating-cb26ce0
+    tag: SA-160-vote-update-88bbda8
 vote:
   image:
     tag: updating-cb26ce0
