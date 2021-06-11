@@ -10,7 +10,7 @@ result:
     tag: new-orleans-or-kings-island-e2a03e1
 vote:
   image:
-    tag: SA-160-vote-update-2f3c58b
+    tag: new-orleans-or-kings-island-e2a03e1
 worker:
   image:
     tag: updating-cb26ce0
