@@ -10,7 +10,7 @@ result:
     tag: miami-or-hershey-park-522aec0
 vote:
   image:
-    tag: SA-160-vote-update-2f3c58b
+    tag: miami-or-hershey-park-522aec0
 worker:
   image:
     tag: updating-cb26ce0
