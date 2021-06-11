@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: miami-or-hershey-park-522aec0
+    tag: new-orleans-or-epcot-c26913e
 vote:
   image:
     tag: miami-or-hershey-park-522aec0
