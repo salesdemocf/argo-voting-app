@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: new-orleans-or-epcot-c26913e
+    tag: new-orleans-or-disney-world-8802a73
 vote:
   image:
     tag: new-orleans-or-epcot-c26913e
