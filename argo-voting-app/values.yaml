@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: new-orleans-or-disney-world-8802a73
+    tag: austin-or-universal-0e5d016
 vote:
   image:
     tag: new-orleans-or-disney-world-8802a73
