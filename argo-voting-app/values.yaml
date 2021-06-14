@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-173-cyclops-or-toad-e6d81ac
+    tag: SA-174-jubilee-or-sabretooth-27d6353
 vote:
   image:
     tag: SA-173-cyclops-or-toad-e6d81ac
