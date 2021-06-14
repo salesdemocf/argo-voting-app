@@ -10,7 +10,7 @@ result:
     tag: SA-178-beast-or-mystique-f7d2999
 vote:
   image:
-    tag: SA-173-cyclops-or-toad-e6d81ac
+    tag: SA-178-beast-or-mystique-f7d2999
 worker:
   image:
     tag: updating-cb26ce0
