@@ -10,7 +10,7 @@ result:
     tag: SA-173-cyclops-or-toad-e6d81ac
 vote:
   image:
-    tag: SA-170-cyclops-or-juggernaut-5f933b6
+    tag: SA-173-cyclops-or-toad-e6d81ac
 worker:
   image:
     tag: updating-cb26ce0
