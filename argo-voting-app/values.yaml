@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-171-wolverine-or-mystique-2b0f25b
+    tag: SA-172-beast-or-mojo-0ff97f8
 vote:
   image:
     tag: SA-170-cyclops-or-juggernaut-5f933b6
