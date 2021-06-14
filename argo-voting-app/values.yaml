@@ -10,7 +10,7 @@ result:
     tag: SA-172-beast-or-mojo-0ff97f8
 vote:
   image:
-    tag: SA-170-cyclops-or-juggernaut-5f933b6
+    tag: SA-172-beast-or-mojo-0ff97f8
 worker:
   image:
     tag: updating-cb26ce0
