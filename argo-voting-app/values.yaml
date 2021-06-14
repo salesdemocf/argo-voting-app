@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-170-cyclops-or-juggernaut-5f933b6
+    tag: SA-171-wolverine-or-mystique-2b0f25b
 vote:
   image:
     tag: SA-170-cyclops-or-juggernaut-5f933b6
