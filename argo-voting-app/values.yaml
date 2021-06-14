@@ -10,7 +10,7 @@ result:
     tag: SA-170-cyclops-or-juggernaut-5f933b6
 vote:
   image:
-    tag: SA-168-storm-or-silver-d7e4ccb
+    tag: SA-170-cyclops-or-juggernaut-5f933b6
 worker:
   image:
     tag: updating-cb26ce0
