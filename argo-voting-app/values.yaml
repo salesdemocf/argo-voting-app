@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: austin-or-universal-0e5d016
+    tag: san-francisco-or-six-flags-d8af71b
 vote:
   image:
-    tag: austin-or-universal-0e5d016
+    tag: san-francisco-or-six-flags-d8af71b
 worker:
   image:
     tag: updating-cb26ce0
