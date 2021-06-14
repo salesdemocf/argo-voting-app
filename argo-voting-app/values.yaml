@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: san-francisco-or-six-flags-d8af71b
+    tag: SA-168-storm-or-silver-d7e4ccb
 vote:
   image:
-    tag: san-francisco-or-six-flags-d8af71b
+    tag: SA-168-storm-or-silver-d7e4ccb
 worker:
   image:
     tag: updating-cb26ce0
