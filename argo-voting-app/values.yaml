@@ -10,7 +10,7 @@ result:
     tag: SA-180-rogue-or-toad-f81fc5f
 vote:
   image:
-    tag: SA-178-beast-or-mystique-f7d2999
+    tag: SA-180-rogue-or-toad-f81fc5f
 worker:
   image:
     tag: updating-cb26ce0
