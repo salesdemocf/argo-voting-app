@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-182-jubilee-or-sabretooth-324f70f
+    tag: SA-183-jubilee-or-juggernaut-9d8d3d5
 vote:
   image:
     tag: SA-182-jubilee-or-sabretooth-324f70f
