@@ -10,7 +10,7 @@ result:
     tag: SA-181-jubilee-or-juggernaut-9dfc515
 vote:
   image:
-    tag: SA-180-rogue-or-toad-f81fc5f
+    tag: SA-181-jubilee-or-juggernaut-9dfc515
 worker:
   image:
     tag: updating-cb26ce0
