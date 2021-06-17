@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-185-storm-or-mojo-659c57f
+    tag: SA-186-beast-or-toad-00fb8f4
 vote:
   image:
     tag: SA-185-storm-or-mojo-659c57f
