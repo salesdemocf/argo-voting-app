@@ -10,7 +10,7 @@ result:
     tag: SA-185-storm-or-mojo-659c57f
 vote:
   image:
-    tag: SA-184-jubilee-or-mojo-f921756
+    tag: SA-185-storm-or-mojo-659c57f
 worker:
   image:
     tag: updating-cb26ce0
