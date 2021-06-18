@@ -10,7 +10,7 @@ result:
     tag: SA-188-rogue-or-sabretooth-6e2faa5
 vote:
   image:
-    tag: SA-187-wolverine-or-toad-e6a2e3f
+    tag: SA-188-rogue-or-sabretooth-6e2faa5
 worker:
   image:
     tag: updating-cb26ce0
