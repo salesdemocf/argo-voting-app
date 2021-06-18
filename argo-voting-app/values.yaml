@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-186-beast-or-toad-00fb8f4
+    tag: SA-187-wolverine-or-toad-e6a2e3f
 vote:
   image:
     tag: SA-186-beast-or-toad-00fb8f4
