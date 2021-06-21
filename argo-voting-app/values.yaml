@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-189-gambit-or-pyro-fa978d5
+    tag: SA-190-rogue-or-toad-0ced5dd
 vote:
   image:
-    tag: SA-189-gambit-or-pyro-fa978d5
+    tag: SA-190-rogue-or-toad-0ced5dd
 worker:
   image:
     tag: updating-cb26ce0
