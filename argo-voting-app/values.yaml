@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-190-rogue-or-toad-0ced5dd
+    tag: SA-191-beast-or-magneto-a4eced5
 vote:
   image:
     tag: SA-190-rogue-or-toad-0ced5dd
