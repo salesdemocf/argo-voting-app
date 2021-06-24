@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-192-beast-or-toad-de65a77
+    tag: SA-193-jubilee-or-mystique-2b32fd0
 vote:
   image:
     tag: SA-192-beast-or-toad-de65a77
