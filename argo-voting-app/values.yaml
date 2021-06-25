@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-194-cyclops-or-sabretooth-17ddf25
+    tag: SA-195-cyclops-or-juggernaut-72639ee
 vote:
   image:
-    tag: SA-194-cyclops-or-sabretooth-17ddf25
+    tag: SA-195-cyclops-or-juggernaut-72639ee
 worker:
   image:
     tag: updating-cb26ce0
