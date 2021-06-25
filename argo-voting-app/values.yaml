@@ -10,7 +10,7 @@ result:
     tag: SA-199-wolverine-or-juggernaut-9f3a811
 vote:
   image:
-    tag: SA-198-cyclops-or-pyro-121fd24
+    tag: SA-199-wolverine-or-juggernaut-9f3a811
 worker:
   image:
     tag: updating-cb26ce0
