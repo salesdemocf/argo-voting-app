@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-193-jubilee-or-mystique-2b32fd0
+    tag: SA-194-cyclops-or-sabretooth-17ddf25
 vote:
   image:
     tag: SA-193-jubilee-or-mystique-2b32fd0
