@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-195-cyclops-or-juggernaut-72639ee
+    tag: SA-196-beast-or-toad-6aa0675
 vote:
   image:
     tag: SA-195-cyclops-or-juggernaut-72639ee
