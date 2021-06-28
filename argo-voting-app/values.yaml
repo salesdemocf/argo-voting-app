@@ -10,7 +10,7 @@ result:
     tag: SA-200-jubilee-or-juggernaut-0ffe9e6
 vote:
   image:
-    tag: SA-199-wolverine-or-juggernaut-9f3a811
+    tag: SA-200-jubilee-or-juggernaut-0ffe9e6
 worker:
   image:
     tag: updating-cb26ce0
