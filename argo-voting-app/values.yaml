@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-200-jubilee-or-juggernaut-0ffe9e6
+    tag: SA-201-jubilee-or-toad-c7e3ea1
 vote:
   image:
-    tag: SA-200-jubilee-or-juggernaut-0ffe9e6
+    tag: SA-201-jubilee-or-toad-c7e3ea1
 worker:
   image:
     tag: updating-cb26ce0
