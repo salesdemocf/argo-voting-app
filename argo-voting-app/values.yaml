@@ -10,7 +10,7 @@ result:
     tag: SA-203-gambit-or-pyro-e770a1e
 vote:
   image:
-    tag: SA-202-storm-or-mojo-8514ccc
+    tag: SA-203-gambit-or-pyro-e770a1e
 worker:
   image:
     tag: updating-cb26ce0
