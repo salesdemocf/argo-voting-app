@@ -10,7 +10,7 @@ result:
     tag: SA-202-storm-or-mojo-8514ccc
 vote:
   image:
-    tag: SA-201-jubilee-or-toad-c7e3ea1
+    tag: SA-202-storm-or-mojo-8514ccc
 worker:
   image:
     tag: updating-cb26ce0
