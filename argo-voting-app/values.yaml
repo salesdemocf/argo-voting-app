@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-203-gambit-or-pyro-e770a1e
+    tag: SA-204-jubilee-or-magneto-4feb9c7
 vote:
   image:
     tag: SA-203-gambit-or-pyro-e770a1e
