@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-207-jubilee-or-sabretooth-cb05fc9
+    tag: SA-208-beast-or-toad-39deb5a
 vote:
   image:
-    tag: SA-207-jubilee-or-sabretooth-cb05fc9
+    tag: SA-208-beast-or-toad-39deb5a
 worker:
   image:
     tag: updating-cb26ce0
