@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-208-beast-or-toad-39deb5a
+    tag: SA-209-cyclops-or-sabretooth-e991caa
 vote:
   image:
-    tag: SA-208-beast-or-toad-39deb5a
+    tag: SA-209-cyclops-or-sabretooth-e991caa
 worker:
   image:
     tag: updating-cb26ce0
