@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-209-cyclops-or-sabretooth-e991caa
+    tag: SA-210-cyclops-or-mystique-5c4113d
 vote:
   image:
     tag: SA-209-cyclops-or-sabretooth-e991caa
