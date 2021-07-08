@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-212-storm-or-mystique-103f570
+    tag: SA-213-storm-or-pyro-ae435ce
 vote:
   image:
-    tag: SA-212-storm-or-mystique-103f570
+    tag: SA-213-storm-or-pyro-ae435ce
 worker:
   image:
     tag: updating-cb26ce0
