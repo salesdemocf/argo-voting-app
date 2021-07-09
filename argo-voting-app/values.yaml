@@ -10,7 +10,7 @@ result:
     tag: SA-214-wolverine-or-mojo-b1c15fd
 vote:
   image:
-    tag: SA-213-storm-or-pyro-ae435ce
+    tag: SA-214-wolverine-or-mojo-b1c15fd
 worker:
   image:
     tag: updating-cb26ce0
