@@ -10,7 +10,7 @@ result:
     tag: SA-216-cyclops-or-juggernaut-4a597f4
 vote:
   image:
-    tag: SA-215-gambit-or-toad-b912fdf
+    tag: SA-216-cyclops-or-juggernaut-4a597f4
 worker:
   image:
     tag: updating-cb26ce0
