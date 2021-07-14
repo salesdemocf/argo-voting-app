@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-218-rogue-or-toad-1b38237
+    tag: SA-219-cyclops-or-mystique-0477988
 vote:
   image:
-    tag: SA-218-rogue-or-toad-1b38237
+    tag: SA-219-cyclops-or-mystique-0477988
 worker:
   image:
     tag: updating-cb26ce0
