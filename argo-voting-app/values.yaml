@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-219-cyclops-or-mystique-0477988
+    tag: SA-220-storm-or-mystique-3e5b415
 vote:
   image:
-    tag: SA-219-cyclops-or-mystique-0477988
+    tag: SA-220-storm-or-mystique-3e5b415
 worker:
   image:
     tag: updating-cb26ce0
