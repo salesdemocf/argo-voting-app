@@ -10,7 +10,7 @@ result:
     tag: SA-221-beast-or-pyro-0295972
 vote:
   image:
-    tag: SA-220-storm-or-mystique-3e5b415
+    tag: SA-221-beast-or-pyro-0295972
 worker:
   image:
     tag: updating-cb26ce0
