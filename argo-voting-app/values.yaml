@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-221-beast-or-pyro-0295972
+    tag: SA-222-wolverine-or-juggernaut-bdc091d
 vote:
   image:
-    tag: SA-221-beast-or-pyro-0295972
+    tag: SA-222-wolverine-or-juggernaut-bdc091d
 worker:
   image:
     tag: updating-cb26ce0
