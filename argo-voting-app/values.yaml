@@ -10,7 +10,7 @@ result:
     tag: SA-223-jubilee-or-pyro-a6e11ac
 vote:
   image:
-    tag: SA-222-wolverine-or-juggernaut-bdc091d
+    tag: SA-223-jubilee-or-pyro-a6e11ac
 worker:
   image:
     tag: updating-cb26ce0
