@@ -10,7 +10,7 @@ result:
     tag: SA-225-storm-or-mojo-2072257
 vote:
   image:
-    tag: SA-223-jubilee-or-pyro-a6e11ac
+    tag: SA-225-storm-or-mojo-2072257
 worker:
   image:
     tag: updating-cb26ce0
