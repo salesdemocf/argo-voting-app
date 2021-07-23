@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-225-storm-or-mojo-2072257
+    tag: SA-226-jubilee-or-juggernaut-d203e21
 vote:
   image:
-    tag: SA-225-storm-or-mojo-2072257
+    tag: SA-226-jubilee-or-juggernaut-d203e21
 worker:
   image:
     tag: updating-cb26ce0
