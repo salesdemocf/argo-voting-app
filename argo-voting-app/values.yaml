@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-226-jubilee-or-juggernaut-d203e21
+    tag: SA-227-storm-or-toad-d801e9a
 vote:
   image:
     tag: SA-226-jubilee-or-juggernaut-d203e21
