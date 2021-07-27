@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-227-storm-or-toad-d801e9a
+    tag: SA-228-jubilee-or-magneto-33bc89a
 vote:
   image:
     tag: SA-227-storm-or-toad-d801e9a
