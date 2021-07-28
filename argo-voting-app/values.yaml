@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-228-jubilee-or-magneto-33bc89a
+    tag: SA-229-beast-or-toad-5768e3a
 vote:
   image:
-    tag: SA-228-jubilee-or-magneto-33bc89a
+    tag: SA-229-beast-or-toad-5768e3a
 worker:
   image:
     tag: updating-cb26ce0
