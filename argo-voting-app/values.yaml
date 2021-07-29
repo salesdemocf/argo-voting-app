@@ -10,7 +10,7 @@ result:
     tag: SA-230-wolverine-or-juggernaut-331077a
 vote:
   image:
-    tag: SA-229-beast-or-toad-5768e3a
+    tag: SA-230-wolverine-or-juggernaut-331077a
 worker:
   image:
     tag: updating-cb26ce0
