@@ -10,7 +10,7 @@ result:
     tag: SA-231-storm-or-juggernaut-b5d70d1
 vote:
   image:
-    tag: SA-230-wolverine-or-juggernaut-331077a
+    tag: SA-231-storm-or-juggernaut-b5d70d1
 worker:
   image:
     tag: updating-cb26ce0
