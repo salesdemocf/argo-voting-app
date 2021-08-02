@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-231-storm-or-juggernaut-b5d70d1
+    tag: SA-232-rogue-or-juggernaut-d9176ff
 vote:
   image:
-    tag: SA-231-storm-or-juggernaut-b5d70d1
+    tag: SA-232-rogue-or-juggernaut-d9176ff
 worker:
   image:
     tag: updating-cb26ce0
