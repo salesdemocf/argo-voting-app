@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-232-rogue-or-juggernaut-d9176ff
+    tag: SA-233-storm-or-magneto-ff3d654
 vote:
   image:
     tag: SA-232-rogue-or-juggernaut-d9176ff
