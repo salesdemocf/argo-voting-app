@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-245-cyclops-or-mojo-4eaf443
+    tag: SA-247-cyclops-or-pyro-56d9ff5
 vote:
   image:
     tag: SA-245-cyclops-or-mojo-4eaf443
