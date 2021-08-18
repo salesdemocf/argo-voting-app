@@ -10,7 +10,7 @@ result:
     tag: SA-249-jubilee-or-sabretooth-110a387
 vote:
   image:
-    tag: SA-248-rogue-or-toad-a09ad62
+    tag: SA-249-jubilee-or-sabretooth-110a387
 worker:
   image:
     tag: updating-cb26ce0
