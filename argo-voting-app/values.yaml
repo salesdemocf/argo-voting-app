@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-249-jubilee-or-sabretooth-110a387
+    tag: SA-252-cyclops-or-magneto-21ff6e5
 vote:
   image:
-    tag: SA-249-jubilee-or-sabretooth-110a387
+    tag: SA-252-cyclops-or-magneto-21ff6e5
 worker:
   image:
     tag: updating-cb26ce0
