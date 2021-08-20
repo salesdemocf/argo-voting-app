@@ -10,7 +10,7 @@ result:
     tag: SA-253-wolverine-or-pyro-93337cb
 vote:
   image:
-    tag: SA-252-cyclops-or-magneto-21ff6e5
+    tag: SA-253-wolverine-or-pyro-93337cb
 worker:
   image:
     tag: updating-cb26ce0
