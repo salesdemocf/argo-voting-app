@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-257-wolverine-or-toad-af2478f
+    tag: SA-258-wolverine-or-mojo-ab19909
 vote:
   image:
     tag: SA-257-wolverine-or-toad-af2478f
