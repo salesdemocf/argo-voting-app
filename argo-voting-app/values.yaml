@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-256-gambit-or-mojo-9595c48
+    tag: SA-257-wolverine-or-toad-af2478f
 vote:
   image:
     tag: SA-256-gambit-or-mojo-9595c48
