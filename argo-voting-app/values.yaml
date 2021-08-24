@@ -10,7 +10,7 @@ result:
     tag: SA-256-gambit-or-mojo-9595c48
 vote:
   image:
-    tag: SA-255-rogue-or-sabretooth-70d16be
+    tag: SA-256-gambit-or-mojo-9595c48
 worker:
   image:
     tag: updating-cb26ce0
