@@ -10,7 +10,7 @@ result:
     tag: SA-255-rogue-or-sabretooth-70d16be
 vote:
   image:
-    tag: SA-254-gambit-or-juggernaut-1fcdb90
+    tag: SA-255-rogue-or-sabretooth-70d16be
 worker:
   image:
     tag: updating-cb26ce0
