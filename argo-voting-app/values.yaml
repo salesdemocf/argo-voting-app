@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-258-wolverine-or-mojo-ab19909
+    tag: SA-259-beast-or-mystique-2055653
 vote:
   image:
-    tag: SA-258-wolverine-or-mojo-ab19909
+    tag: SA-259-beast-or-mystique-2055653
 worker:
   image:
     tag: updating-cb26ce0
