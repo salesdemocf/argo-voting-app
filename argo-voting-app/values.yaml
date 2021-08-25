@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-259-beast-or-mystique-2055653
+    tag: SA-260-rogue-or-mystique-4602f24
 vote:
   image:
-    tag: SA-259-beast-or-mystique-2055653
+    tag: SA-260-rogue-or-mystique-4602f24
 worker:
   image:
     tag: updating-cb26ce0
