@@ -10,7 +10,7 @@ result:
     tag: SA-261-rogue-or-mojo-638b73c
 vote:
   image:
-    tag: SA-260-rogue-or-mystique-4602f24
+    tag: SA-261-rogue-or-mojo-638b73c
 worker:
   image:
     tag: updating-cb26ce0
