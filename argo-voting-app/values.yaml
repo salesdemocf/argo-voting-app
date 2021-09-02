@@ -10,7 +10,7 @@ result:
     tag: SA-266-jubilee-or-toad-b9aa9c3
 vote:
   image:
-    tag: SA-265-beast-or-pyro-4401e1b
+    tag: SA-266-jubilee-or-toad-b9aa9c3
 worker:
   image:
     tag: updating-cb26ce0
