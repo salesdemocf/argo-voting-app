@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-266-jubilee-or-toad-b9aa9c3
+    tag: SA-267-storm-or-mystique-c697fb0
 vote:
   image:
     tag: SA-267-storm-or-mystique-c697fb0
