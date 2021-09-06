@@ -10,7 +10,7 @@ result:
     tag: SA-268-beast-or-magneto-6c56c89
 vote:
   image:
-    tag: SA-266-jubilee-or-toad-b9aa9c3
+    tag: SA-268-beast-or-magneto-6c56c89
 worker:
   image:
     tag: updating-cb26ce0
