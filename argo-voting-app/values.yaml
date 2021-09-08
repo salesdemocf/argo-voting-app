@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-268-beast-or-magneto-6c56c89
+    tag: SA-270-rogue-or-pyro-ca89c24
 vote:
   image:
     tag: SA-268-beast-or-magneto-6c56c89
