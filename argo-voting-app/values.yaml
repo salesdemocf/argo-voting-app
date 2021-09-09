@@ -10,7 +10,7 @@ result:
     tag: SA-271-wolverine-or-toad-373f384
 vote:
   image:
-    tag: SA-270-rogue-or-pyro-ca89c24
+    tag: SA-271-wolverine-or-toad-373f384
 worker:
   image:
     tag: updating-cb26ce0
