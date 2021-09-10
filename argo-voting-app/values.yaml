@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-271-wolverine-or-toad-373f384
+    tag: SA-272-gambit-or-juggernaut-da0fe1b
 vote:
   image:
-    tag: SA-271-wolverine-or-toad-373f384
+    tag: SA-272-gambit-or-juggernaut-da0fe1b
 worker:
   image:
     tag: updating-cb26ce0
