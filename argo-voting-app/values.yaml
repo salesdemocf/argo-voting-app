@@ -10,7 +10,7 @@ result:
     tag: SA-273-gambit-or-mojo-208a2cb
 vote:
   image:
-    tag: SA-272-gambit-or-juggernaut-da0fe1b
+    tag: SA-273-gambit-or-mojo-208a2cb
 worker:
   image:
     tag: updating-cb26ce0
