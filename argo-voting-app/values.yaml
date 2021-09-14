@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-274-rogue-or-sabretooth-9a5668b
+    tag: SA-276-jubilee-or-sabretooth-ab38b65
 vote:
   image:
-    tag: SA-274-rogue-or-sabretooth-9a5668b
+    tag: SA-276-jubilee-or-sabretooth-ab38b65
 worker:
   image:
     tag: updating-cb26ce0
