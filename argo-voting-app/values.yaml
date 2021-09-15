@@ -10,7 +10,7 @@ result:
     tag: SA-277-jubilee-or-mojo-a63f12e
 vote:
   image:
-    tag: SA-276-jubilee-or-sabretooth-ab38b65
+    tag: SA-277-jubilee-or-mojo-a63f12e
 worker:
   image:
     tag: updating-cb26ce0
