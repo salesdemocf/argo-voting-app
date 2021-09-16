@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-277-jubilee-or-mojo-a63f12e
+    tag: SA-278-wolverine-or-juggernaut-4358843
 vote:
   image:
     tag: SA-277-jubilee-or-mojo-a63f12e
