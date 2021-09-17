@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-278-wolverine-or-juggernaut-4358843
+    tag: SA-279-cyclops-or-pyro-8effa58
 vote:
   image:
-    tag: SA-278-wolverine-or-juggernaut-4358843
+    tag: SA-279-cyclops-or-pyro-8effa58
 worker:
   image:
     tag: updating-cb26ce0
