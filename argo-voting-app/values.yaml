@@ -10,7 +10,7 @@ result:
     tag: SA-280-cyclops-or-magneto-eb8891b
 vote:
   image:
-    tag: SA-279-cyclops-or-pyro-8effa58
+    tag: SA-280-cyclops-or-magneto-eb8891b
 worker:
   image:
     tag: updating-cb26ce0
