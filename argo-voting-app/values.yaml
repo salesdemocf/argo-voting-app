@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-280-cyclops-or-magneto-eb8891b
+    tag: SA-282-rogue-or-mystique-818bb9f
 vote:
   image:
-    tag: SA-280-cyclops-or-magneto-eb8891b
+    tag: SA-282-rogue-or-mystique-818bb9f
 worker:
   image:
     tag: updating-cb26ce0
