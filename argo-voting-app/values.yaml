@@ -10,7 +10,7 @@ result:
     tag: SA-283-rogue-or-magneto-7273252
 vote:
   image:
-    tag: SA-282-rogue-or-mystique-818bb9f
+    tag: SA-283-rogue-or-magneto-7273252
 worker:
   image:
     tag: updating-cb26ce0
