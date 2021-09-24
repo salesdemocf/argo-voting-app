@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-283-rogue-or-magneto-7273252
+    tag: SA-285-beast-or-juggernaut-e33ecf6
 vote:
   image:
     tag: SA-283-rogue-or-magneto-7273252
