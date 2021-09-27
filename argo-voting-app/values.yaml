@@ -10,7 +10,7 @@ result:
     tag: SA-286-cyclops-or-pyro-dc2b3d9
 vote:
   image:
-    tag: SA-285-beast-or-juggernaut-e33ecf6
+    tag: SA-286-cyclops-or-pyro-dc2b3d9
 worker:
   image:
     tag: updating-cb26ce0
