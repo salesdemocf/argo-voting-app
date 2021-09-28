@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-286-cyclops-or-pyro-dc2b3d9
+    tag: SA-287-wolverine-or-toad-8d3d8e6
 vote:
   image:
     tag: SA-286-cyclops-or-pyro-dc2b3d9
