@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-287-wolverine-or-toad-8d3d8e6
+    tag: SA-288-rogue-or-mystique-8462a04
 vote:
   image:
     tag: SA-287-wolverine-or-toad-8d3d8e6
