@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-288-rogue-or-mystique-8462a04
+    tag: SA-289-cyclops-or-toad-3934067
 vote:
   image:
     tag: SA-288-rogue-or-mystique-8462a04
