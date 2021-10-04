@@ -10,7 +10,7 @@ result:
     tag: SA-291-cyclops-or-juggernaut-23e5799
 vote:
   image:
-    tag: SA-290-wolverine-or-juggernaut-0769f48
+    tag: SA-291-cyclops-or-juggernaut-23e5799
 worker:
   image:
     tag: updating-cb26ce0
