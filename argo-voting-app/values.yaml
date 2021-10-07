@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-292-cyclops-or-mystique-2b6250f
+    tag: SA-293-cyclops-or-mojo-0e40e04
 vote:
   image:
-    tag: SA-292-cyclops-or-mystique-2b6250f
+    tag: SA-293-cyclops-or-mojo-0e40e04
 worker:
   image:
     tag: updating-cb26ce0
