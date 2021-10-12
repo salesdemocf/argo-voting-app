@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-295-cyclops-or-juggernaut-7d61ff7
+    tag: SA-296-storm-or-mystique-f6afa7d
 vote:
   image:
-    tag: SA-295-cyclops-or-juggernaut-7d61ff7
+    tag: SA-296-storm-or-mystique-f6afa7d
 worker:
   image:
     tag: updating-cb26ce0
