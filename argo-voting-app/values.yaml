@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-296-storm-or-mystique-f6afa7d
+    tag: SA-297-gambit-or-pyro-6995eba
 vote:
   image:
     tag: SA-296-storm-or-mystique-f6afa7d
