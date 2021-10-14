@@ -10,7 +10,7 @@ result:
     tag: SA-298-wolverine-or-magneto-0e4d410
 vote:
   image:
-    tag: SA-297-gambit-or-pyro-6995eba
+    tag: SA-298-wolverine-or-magneto-0e4d410
 worker:
   image:
     tag: updating-cb26ce0
