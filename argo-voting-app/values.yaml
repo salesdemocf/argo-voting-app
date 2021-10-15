@@ -10,7 +10,7 @@ result:
     tag: SA-299-storm-or-juggernaut-cbdaa1d
 vote:
   image:
-    tag: SA-298-wolverine-or-magneto-0e4d410
+    tag: SA-299-storm-or-juggernaut-cbdaa1d
 worker:
   image:
     tag: updating-cb26ce0
