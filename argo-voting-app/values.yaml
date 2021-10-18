@@ -10,7 +10,7 @@ result:
     tag: SA-300-beast-or-sabretooth-1f88b63
 vote:
   image:
-    tag: SA-299-storm-or-juggernaut-cbdaa1d
+    tag: SA-300-beast-or-sabretooth-1f88b63
 worker:
   image:
     tag: updating-cb26ce0
