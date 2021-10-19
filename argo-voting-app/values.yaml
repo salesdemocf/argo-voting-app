@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-300-beast-or-sabretooth-1f88b63
+    tag: SA-301-storm-or-sabretooth-5b64a0c
 vote:
   image:
     tag: SA-300-beast-or-sabretooth-1f88b63
