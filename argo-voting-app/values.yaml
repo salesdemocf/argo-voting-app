@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-301-storm-or-sabretooth-5b64a0c
+    tag: SA-302-gambit-or-juggernaut-ddf5f2c
 vote:
   image:
-    tag: SA-301-storm-or-sabretooth-5b64a0c
+    tag: SA-302-gambit-or-juggernaut-ddf5f2c
 worker:
   image:
     tag: updating-cb26ce0
