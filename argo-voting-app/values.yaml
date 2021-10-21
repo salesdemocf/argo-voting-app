@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-302-gambit-or-juggernaut-ddf5f2c
+    tag: SA-303-beast-or-sabretooth-20d9069
 vote:
   image:
     tag: SA-302-gambit-or-juggernaut-ddf5f2c
