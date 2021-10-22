@@ -10,7 +10,7 @@ result:
     tag: SA-304-jubilee-or-mystique-08f5fd4
 vote:
   image:
-    tag: SA-303-beast-or-sabretooth-20d9069
+    tag: SA-304-jubilee-or-mystique-08f5fd4
 worker:
   image:
     tag: updating-cb26ce0
