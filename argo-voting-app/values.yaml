@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-304-jubilee-or-mystique-08f5fd4
+    tag: SA-305-cyclops-or-mystique-994ffbd
 vote:
   image:
-    tag: SA-304-jubilee-or-mystique-08f5fd4
+    tag: SA-305-cyclops-or-mystique-994ffbd
 worker:
   image:
     tag: updating-cb26ce0
