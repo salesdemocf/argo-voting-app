@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-305-cyclops-or-mystique-994ffbd
+    tag: SA-306-gambit-or-sabretooth-45a227a
 vote:
   image:
-    tag: SA-305-cyclops-or-mystique-994ffbd
+    tag: SA-306-gambit-or-sabretooth-45a227a
 worker:
   image:
     tag: updating-cb26ce0
