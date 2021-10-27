@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-306-gambit-or-sabretooth-45a227a
+    tag: SA-307-wolverine-or-sabretooth-aadf9cf
 vote:
   image:
     tag: SA-306-gambit-or-sabretooth-45a227a
