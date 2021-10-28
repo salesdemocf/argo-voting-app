@@ -10,7 +10,7 @@ result:
     tag: SA-308-cyclops-or-pyro-4a6563a
 vote:
   image:
-    tag: SA-307-wolverine-or-sabretooth-aadf9cf
+    tag: SA-308-cyclops-or-pyro-4a6563a
 worker:
   image:
     tag: updating-cb26ce0
