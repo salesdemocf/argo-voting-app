@@ -10,7 +10,7 @@ result:
     tag: SA-309-rogue-or-juggernaut-9fd86e7
 vote:
   image:
-    tag: SA-308-cyclops-or-pyro-4a6563a
+    tag: SA-309-rogue-or-juggernaut-9fd86e7
 worker:
   image:
     tag: updating-cb26ce0
