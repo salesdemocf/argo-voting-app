@@ -10,7 +10,7 @@ result:
     tag: SA-310-beast-or-mojo-3a709d8
 vote:
   image:
-    tag: SA-309-rogue-or-juggernaut-9fd86e7
+    tag: SA-310-beast-or-mojo-3a709d8
 worker:
   image:
     tag: updating-cb26ce0
