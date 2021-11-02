@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-310-beast-or-mojo-3a709d8
+    tag: SA-311-wolverine-or-toad-141bd5c
 vote:
   image:
-    tag: SA-310-beast-or-mojo-3a709d8
+    tag: SA-311-wolverine-or-toad-141bd5c
 worker:
   image:
     tag: updating-cb26ce0
