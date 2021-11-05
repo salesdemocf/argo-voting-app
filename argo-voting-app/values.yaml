@@ -10,7 +10,7 @@ result:
     tag: SA-314-rogue-or-pyro-834c0e4
 vote:
   image:
-    tag: SA-313-wolverine-or-juggernaut-92f4df2
+    tag: SA-314-rogue-or-pyro-834c0e4
 worker:
   image:
     tag: updating-cb26ce0
