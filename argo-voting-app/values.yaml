@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-314-rogue-or-pyro-834c0e4
+    tag: SA-315-beast-or-magneto-2544a3f
 vote:
   image:
-    tag: SA-314-rogue-or-pyro-834c0e4
+    tag: SA-315-beast-or-magneto-2544a3f
 worker:
   image:
     tag: updating-cb26ce0
