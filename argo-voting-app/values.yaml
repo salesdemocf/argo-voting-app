@@ -10,7 +10,7 @@ result:
     tag: SA-316-jubilee-or-toad-13a1fb7
 vote:
   image:
-    tag: SA-316-jubilee-or-toad-13a1fb7
+    tag: manual-change-a052510
 worker:
   image:
     tag: updating-cb26ce0
