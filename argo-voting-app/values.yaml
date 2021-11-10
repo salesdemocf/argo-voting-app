@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-316-jubilee-or-toad-13a1fb7
+    tag: SA-317-cyclops-or-mojo-088fcff
 vote:
   image:
     tag: SA-316-jubilee-or-toad-13a1fb7
