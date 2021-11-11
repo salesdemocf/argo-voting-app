@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-317-cyclops-or-mojo-088fcff
+    tag: SA-318-storm-or-sabretooth-3b9b99d
 vote:
   image:
-    tag: SA-317-cyclops-or-mojo-088fcff
+    tag: SA-318-storm-or-sabretooth-3b9b99d
 worker:
   image:
     tag: updating-cb26ce0
