@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-318-storm-or-sabretooth-3b9b99d
+    tag: SA-319-wolverine-or-sabretooth-e5d1a6e
 vote:
   image:
-    tag: SA-318-storm-or-sabretooth-3b9b99d
+    tag: SA-319-wolverine-or-sabretooth-e5d1a6e
 worker:
   image:
     tag: updating-cb26ce0
