@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-319-wolverine-or-sabretooth-e5d1a6e
+    tag: SA-320-jubilee-or-mystique-f4baaff
 vote:
   image:
     tag: SA-319-wolverine-or-sabretooth-e5d1a6e
