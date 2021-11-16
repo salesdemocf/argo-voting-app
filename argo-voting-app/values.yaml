@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-320-jubilee-or-mystique-f4baaff
+    tag: SA-321-rogue-or-pyro-51bef93
 vote:
   image:
-    tag: SA-320-jubilee-or-mystique-f4baaff
+    tag: SA-321-rogue-or-pyro-51bef93
 worker:
   image:
     tag: updating-cb26ce0
