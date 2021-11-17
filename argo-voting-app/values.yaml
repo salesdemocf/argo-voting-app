@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-321-rogue-or-pyro-51bef93
+    tag: SA-322-storm-or-magneto-aae1e8c
 vote:
   image:
-    tag: SA-321-rogue-or-pyro-51bef93
+    tag: SA-322-storm-or-magneto-aae1e8c
 worker:
   image:
     tag: updating-cb26ce0
