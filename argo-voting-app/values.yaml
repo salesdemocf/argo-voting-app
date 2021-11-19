@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-323-cyclops-or-pyro-d9d7373
+    tag: SA-324-gambit-or-mojo-07322d4
 vote:
   image:
-    tag: SA-323-cyclops-or-pyro-d9d7373
+    tag: SA-324-gambit-or-mojo-07322d4
 worker:
   image:
     tag: updating-cb26ce0
