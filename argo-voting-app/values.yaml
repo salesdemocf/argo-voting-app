@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-324-gambit-or-mojo-07322d4
+    tag: SA-325-beast-or-toad-c20b5e4
 vote:
   image:
     tag: SA-324-gambit-or-mojo-07322d4
