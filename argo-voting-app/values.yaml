@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-325-beast-or-toad-c20b5e4
+    tag: SA-326-cyclops-or-pyro-6e35ed7
 vote:
   image:
     tag: SA-325-beast-or-toad-c20b5e4
