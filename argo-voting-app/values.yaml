@@ -10,7 +10,7 @@ result:
     tag: SA-327-rogue-or-mojo-987e3ac
 vote:
   image:
-    tag: SA-326-cyclops-or-pyro-6e35ed7
+    tag: SA-327-rogue-or-mojo-987e3ac
 worker:
   image:
     tag: updating-cb26ce0
