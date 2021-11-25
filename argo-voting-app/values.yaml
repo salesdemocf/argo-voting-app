@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-327-rogue-or-mojo-987e3ac
+    tag: SA-328-beast-or-magneto-cd5f405
 vote:
   image:
     tag: SA-327-rogue-or-mojo-987e3ac
