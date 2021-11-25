@@ -10,7 +10,7 @@ result:
     tag: SA-328-beast-or-magneto-cd5f405
 vote:
   image:
-    tag: SA-327-rogue-or-mojo-987e3ac
+    tag: SA-328-beast-or-magneto-cd5f405
 worker:
   image:
     tag: updating-cb26ce0
