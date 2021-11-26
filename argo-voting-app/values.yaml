@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-328-beast-or-magneto-cd5f405
+    tag: SA-329-jubilee-or-magneto-02d9ff3
 vote:
   image:
     tag: SA-328-beast-or-magneto-cd5f405
