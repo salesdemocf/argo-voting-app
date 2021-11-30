@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-330-beast-or-sabretooth-09b7db2
+    tag: SA-331-rogue-or-mystique-98aa92a
 vote:
   image:
     tag: SA-330-beast-or-sabretooth-09b7db2
