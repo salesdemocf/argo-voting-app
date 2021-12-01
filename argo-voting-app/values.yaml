@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-331-rogue-or-mystique-98aa92a
+    tag: SA-332-storm-or-juggernaut-ee38d09
 vote:
   image:
     tag: SA-331-rogue-or-mystique-98aa92a
