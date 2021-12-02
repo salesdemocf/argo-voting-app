@@ -10,7 +10,7 @@ result:
     tag: SA-333-jubilee-or-mystique-b9393de
 vote:
   image:
-    tag: SA-332-storm-or-juggernaut-ee38d09
+    tag: SA-333-jubilee-or-mystique-b9393de
 worker:
   image:
     tag: updating-cb26ce0
