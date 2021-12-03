@@ -10,7 +10,7 @@ result:
     tag: SA-334-beast-or-pyro-eda6037
 vote:
   image:
-    tag: SA-333-jubilee-or-mystique-b9393de
+    tag: SA-334-beast-or-pyro-eda6037
 worker:
   image:
     tag: updating-cb26ce0
