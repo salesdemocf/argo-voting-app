@@ -10,7 +10,7 @@ result:
     tag: SA-335-wolverine-or-magneto-4232629
 vote:
   image:
-    tag: SA-334-beast-or-pyro-eda6037
+    tag: SA-335-wolverine-or-magneto-4232629
 worker:
   image:
     tag: updating-cb26ce0
