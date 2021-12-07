@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-335-wolverine-or-magneto-4232629
+    tag: SA-336-beast-or-sabretooth-16b0d7c
 vote:
   image:
     tag: SA-335-wolverine-or-magneto-4232629
