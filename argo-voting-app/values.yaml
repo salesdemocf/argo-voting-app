@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-336-beast-or-sabretooth-16b0d7c
+    tag: SA-337-gambit-or-juggernaut-e99f113
 vote:
   image:
     tag: SA-336-beast-or-sabretooth-16b0d7c
