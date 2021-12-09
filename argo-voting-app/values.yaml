@@ -10,7 +10,7 @@ result:
     tag: SA-338-beast-or-magneto-1d28157
 vote:
   image:
-    tag: SA-337-gambit-or-juggernaut-e99f113
+    tag: SA-338-beast-or-magneto-1d28157
 worker:
   image:
     tag: updating-cb26ce0
