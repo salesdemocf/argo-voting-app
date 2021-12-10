@@ -10,7 +10,7 @@ result:
     tag: SA-339-jubilee-or-toad-a0b5b25
 vote:
   image:
-    tag: SA-338-beast-or-magneto-1d28157
+    tag: SA-339-jubilee-or-toad-a0b5b25
 worker:
   image:
     tag: updating-cb26ce0
