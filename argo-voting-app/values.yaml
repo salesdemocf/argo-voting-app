@@ -10,7 +10,7 @@ result:
     tag: SA-340-storm-or-mystique-b84df3b
 vote:
   image:
-    tag: SA-339-jubilee-or-toad-a0b5b25
+    tag: SA-340-storm-or-mystique-b84df3b
 worker:
   image:
     tag: updating-cb26ce0
