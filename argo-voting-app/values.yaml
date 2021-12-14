@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-340-storm-or-mystique-b84df3b
+    tag: SA-341-cyclops-or-magneto-753145d
 vote:
   image:
-    tag: SA-340-storm-or-mystique-b84df3b
+    tag: SA-341-cyclops-or-magneto-753145d
 worker:
   image:
     tag: updating-cb26ce0
