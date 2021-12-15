@@ -10,7 +10,7 @@ result:
     tag: SA-342-gambit-or-mojo-7407b54
 vote:
   image:
-    tag: SA-341-cyclops-or-magneto-753145d
+    tag: SA-342-gambit-or-mojo-7407b54
 worker:
   image:
     tag: updating-cb26ce0
