@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-342-gambit-or-mojo-7407b54
+    tag: SA-343-beast-or-toad-0582389
 vote:
   image:
-    tag: SA-342-gambit-or-mojo-7407b54
+    tag: SA-343-beast-or-toad-0582389
 worker:
   image:
     tag: updating-cb26ce0
