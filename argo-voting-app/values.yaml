@@ -10,7 +10,7 @@ result:
     tag: SA-344-gambit-or-juggernaut-0944b0f
 vote:
   image:
-    tag: SA-343-beast-or-toad-0582389
+    tag: SA-344-gambit-or-juggernaut-0944b0f
 worker:
   image:
     tag: updating-cb26ce0
