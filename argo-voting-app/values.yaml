@@ -10,7 +10,7 @@ result:
     tag: SA-346-gambit-or-magneto-bfaa8c1
 vote:
   image:
-    tag: SA-344-gambit-or-juggernaut-0944b0f
+    tag: SA-346-gambit-or-magneto-bfaa8c1
 worker:
   image:
     tag: updating-cb26ce0
