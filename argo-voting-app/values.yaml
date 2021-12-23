@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-346-gambit-or-magneto-bfaa8c1
+    tag: SA-347-wolverine-or-mojo-618aed9
 vote:
   image:
     tag: SA-346-gambit-or-magneto-bfaa8c1
