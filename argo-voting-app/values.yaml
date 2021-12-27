@@ -10,7 +10,7 @@ result:
     tag: SA-349-cyclops-or-magneto-5c2f301
 vote:
   image:
-    tag: SA-348-gambit-or-magneto-3e084ce
+    tag: SA-349-cyclops-or-magneto-5c2f301
 worker:
   image:
     tag: updating-cb26ce0
