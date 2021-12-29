@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-350-jubilee-or-juggernaut-dcbdbfd
+    tag: SA-351-cyclops-or-mojo-be926e8
 vote:
   image:
     tag: SA-350-jubilee-or-juggernaut-dcbdbfd
