@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-352-jubilee-or-magneto-1e82b28
+    tag: SA-353-storm-or-magneto-3839a16
 vote:
   image:
-    tag: SA-352-jubilee-or-magneto-1e82b28
+    tag: SA-353-storm-or-magneto-3839a16
 worker:
   image:
     tag: updating-cb26ce0
