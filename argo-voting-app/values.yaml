@@ -10,7 +10,7 @@ result:
     tag: SA-354-beast-or-magneto-867ff06
 vote:
   image:
-    tag: SA-353-storm-or-magneto-3839a16
+    tag: SA-354-beast-or-magneto-867ff06
 worker:
   image:
     tag: updating-cb26ce0
