@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-354-beast-or-magneto-867ff06
+    tag: SA-355-gambit-or-mojo-988c71b
 vote:
   image:
     tag: SA-354-beast-or-magneto-867ff06
