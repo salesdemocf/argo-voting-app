@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-355-gambit-or-mojo-988c71b
+    tag: SA-356-gambit-or-mystique-5ea3c58
 vote:
   image:
     tag: SA-355-gambit-or-mojo-988c71b
