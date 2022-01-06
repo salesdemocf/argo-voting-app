@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-356-gambit-or-mystique-5ea3c58
+    tag: SA-357-rogue-or-pyro-cace628
 vote:
   image:
     tag: SA-356-gambit-or-mystique-5ea3c58
