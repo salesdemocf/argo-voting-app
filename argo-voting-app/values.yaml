@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-357-rogue-or-pyro-cace628
+    tag: SA-358-gambit-or-toad-acacbf5
 vote:
   image:
     tag: SA-357-rogue-or-pyro-cace628
