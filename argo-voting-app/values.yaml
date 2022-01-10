@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-358-gambit-or-toad-acacbf5
+    tag: SA-359-storm-or-sabretooth-f67b4a3
 vote:
   image:
     tag: SA-358-gambit-or-toad-acacbf5
