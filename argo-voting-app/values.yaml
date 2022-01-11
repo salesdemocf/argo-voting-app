@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-359-storm-or-sabretooth-f67b4a3
+    tag: SA-360-jubilee-or-pyro-ac78a3f
 vote:
   image:
     tag: SA-359-storm-or-sabretooth-f67b4a3
