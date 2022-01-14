@@ -10,7 +10,7 @@ result:
     tag: SA-363-rogue-or-mystique-2567998
 vote:
   image:
-    tag: SA-362-rogue-or-magneto-639e17b
+    tag: SA-363-rogue-or-mystique-2567998
 worker:
   image:
     tag: updating-cb26ce0
