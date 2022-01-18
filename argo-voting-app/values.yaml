@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-364-rogue-or-toad-8c56c2b
+    tag: SA-365-wolverine-or-magneto-5bb8f18
 vote:
   image:
     tag: SA-364-rogue-or-toad-8c56c2b
