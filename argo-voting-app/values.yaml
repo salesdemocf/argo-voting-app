@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-366-beast-or-mojo-3ceec96
+    tag: SA-367-cyclops-or-mystique-360d627
 vote:
   image:
     tag: SA-366-beast-or-mojo-3ceec96
