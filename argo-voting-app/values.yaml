@@ -10,7 +10,7 @@ result:
     tag: SA-368-beast-or-mojo-9f59f70
 vote:
   image:
-    tag: SA-367-cyclops-or-mystique-360d627
+    tag: SA-368-beast-or-mojo-9f59f70
 worker:
   image:
     tag: updating-cb26ce0
