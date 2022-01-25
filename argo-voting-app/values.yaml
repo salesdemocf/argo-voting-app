@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-369-cyclops-or-mojo-58f627f
+    tag: SA-370-jubilee-or-mojo-3bcc12b
 vote:
   image:
-    tag: SA-369-cyclops-or-mojo-58f627f
+    tag: SA-370-jubilee-or-mojo-3bcc12b
 worker:
   image:
     tag: updating-cb26ce0
