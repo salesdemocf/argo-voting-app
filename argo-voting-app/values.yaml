@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-370-jubilee-or-mojo-3bcc12b
+    tag: SA-371-beast-or-sabretooth-1c78e79
 vote:
   image:
     tag: SA-370-jubilee-or-mojo-3bcc12b
