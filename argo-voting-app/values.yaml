@@ -10,7 +10,7 @@ result:
     tag: SA-372-storm-or-juggernaut-b64edfa
 vote:
   image:
-    tag: SA-371-beast-or-sabretooth-1c78e79
+    tag: SA-372-storm-or-juggernaut-b64edfa
 worker:
   image:
     tag: updating-cb26ce0
