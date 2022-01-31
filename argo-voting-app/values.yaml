@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-373-beast-or-sabretooth-ac814e5
+    tag: SA-374-cyclops-or-mojo-7de7c51
 vote:
   image:
-    tag: SA-373-beast-or-sabretooth-ac814e5
+    tag: SA-374-cyclops-or-mojo-7de7c51
 worker:
   image:
     tag: updating-cb26ce0
