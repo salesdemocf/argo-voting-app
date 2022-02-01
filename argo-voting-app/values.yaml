@@ -10,7 +10,7 @@ result:
     tag: SA-375-storm-or-juggernaut-9fa48b5
 vote:
   image:
-    tag: SA-374-cyclops-or-mojo-7de7c51
+    tag: SA-375-storm-or-juggernaut-9fa48b5
 worker:
   image:
     tag: updating-cb26ce0
