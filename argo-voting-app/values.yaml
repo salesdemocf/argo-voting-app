@@ -10,7 +10,7 @@ result:
     tag: SA-376-cyclops-or-pyro-5776ae6
 vote:
   image:
-    tag: SA-375-storm-or-juggernaut-9fa48b5
+    tag: SA-376-cyclops-or-pyro-5776ae6
 worker:
   image:
     tag: updating-cb26ce0
