@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-378-rogue-or-mystique-fd68e3e
+    tag: SA-380-rogue-or-toad-8ff2e34
 vote:
   image:
-    tag: SA-378-rogue-or-mystique-fd68e3e
+    tag: SA-380-rogue-or-toad-8ff2e34
 worker:
   image:
     tag: updating-cb26ce0
