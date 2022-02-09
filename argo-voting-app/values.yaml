@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-380-rogue-or-toad-8ff2e34
+    tag: SA-381-storm-or-sabretooth-7d4cc56
 vote:
   image:
-    tag: SA-380-rogue-or-toad-8ff2e34
+    tag: SA-381-storm-or-sabretooth-7d4cc56
 worker:
   image:
     tag: updating-cb26ce0
