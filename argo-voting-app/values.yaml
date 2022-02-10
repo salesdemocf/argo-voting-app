@@ -10,7 +10,7 @@ result:
     tag: SA-382-beast-or-mystique-133fccf
 vote:
   image:
-    tag: SA-381-storm-or-sabretooth-7d4cc56
+    tag: SA-382-beast-or-mystique-133fccf
 worker:
   image:
     tag: updating-cb26ce0
