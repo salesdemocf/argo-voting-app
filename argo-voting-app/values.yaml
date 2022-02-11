@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-382-beast-or-mystique-133fccf
+    tag: SA-383-jubilee-or-juggernaut-cfe9be3
 vote:
   image:
     tag: SA-382-beast-or-mystique-133fccf
