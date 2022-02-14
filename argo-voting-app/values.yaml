@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-383-jubilee-or-juggernaut-cfe9be3
+    tag: SA-384-storm-or-juggernaut-e9c0928
 vote:
   image:
-    tag: SA-383-jubilee-or-juggernaut-cfe9be3
+    tag: SA-384-storm-or-juggernaut-e9c0928
 worker:
   image:
     tag: updating-cb26ce0
