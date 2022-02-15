@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-384-storm-or-juggernaut-e9c0928
+    tag: SA-385-storm-or-magneto-da2debf
 vote:
   image:
     tag: SA-384-storm-or-juggernaut-e9c0928
