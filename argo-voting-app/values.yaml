@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-385-storm-or-magneto-da2debf
+    tag: SA-386-gambit-or-toad-69c437d
 vote:
   image:
-    tag: SA-385-storm-or-magneto-da2debf
+    tag: SA-386-gambit-or-toad-69c437d
 worker:
   image:
     tag: updating-cb26ce0
