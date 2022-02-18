@@ -7,7 +7,7 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-387-storm-or-juggernaut-4724cb5
+    tag: SA-388-beast-or-juggernaut-2b11e67
 vote:
   image:
     tag: SA-387-storm-or-juggernaut-4724cb5
