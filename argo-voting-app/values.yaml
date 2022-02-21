@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-388-beast-or-juggernaut-2b11e67
+    tag: SA-389-storm-or-sabretooth-62d87ab
 vote:
   image:
-    tag: SA-388-beast-or-juggernaut-2b11e67
+    tag: SA-389-storm-or-sabretooth-62d87ab
 worker:
   image:
     tag: updating-cb26ce0
