@@ -7,10 +7,10 @@ redis:
   usePassword: false
 result:
   image:
-    tag: SA-389-storm-or-sabretooth-62d87ab
+    tag: SA-390-gambit-or-mojo-7002c25
 vote:
   image:
-    tag: SA-389-storm-or-sabretooth-62d87ab
+    tag: SA-390-gambit-or-mojo-7002c25
 worker:
   image:
     tag: updating-cb26ce0
