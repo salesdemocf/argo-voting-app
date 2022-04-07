@@ -33,7 +33,7 @@ def test_confirm_vote_title(browser):
     browser.get("http://{}:80".format(vote_endpoint_ip))
     option_a = "Jubilee"
     option_a = "Beast"
-    option_b = "Pyro"
+    option_b = "Magneto"
 
 def test_confirm_vote_choice_form(browser):
     browser.get("http://{}:80".format(vote_endpoint_ip))
