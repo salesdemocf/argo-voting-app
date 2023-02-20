@@ -32,8 +32,8 @@ def browser():
 def test_confirm_vote_title(browser):
     browser.get("http://{}:80".format(vote_endpoint_ip))
     option_a = "Jubilee"
-    option_a = "Rogue"
-    option_b = "Juggernaut"
+    option_a = "Jubilee"
+    option_b = "Toad"
 
 def test_confirm_vote_choice_form(browser):
     browser.get("http://{}:80".format(vote_endpoint_ip))
